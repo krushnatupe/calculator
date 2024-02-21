@@ -1,0 +1,17 @@
+Z:\dotNett\calculator\calculator\obj\Debug\net6.0-windows\calculator.csproj.AssemblyReference.cache
+Z:\dotNett\calculator\calculator\obj\Debug\net6.0-windows\calculator.Form1.resources
+Z:\dotNett\calculator\calculator\obj\Debug\net6.0-windows\calculator.csproj.GenerateResource.cache
+Z:\dotNett\calculator\calculator\obj\Debug\net6.0-windows\calculator.GeneratedMSBuildEditorConfig.editorconfig
+Z:\dotNett\calculator\calculator\obj\Debug\net6.0-windows\calculator.AssemblyInfoInputs.cache
+Z:\dotNett\calculator\calculator\obj\Debug\net6.0-windows\calculator.AssemblyInfo.cs
+Z:\dotNett\calculator\calculator\obj\Debug\net6.0-windows\calculator.csproj.CoreCompileInputs.cache
+Z:\dotNett\calculator\calculator\bin\Debug\net6.0-windows\calculator.exe
+Z:\dotNett\calculator\calculator\bin\Debug\net6.0-windows\calculator.deps.json
+Z:\dotNett\calculator\calculator\bin\Debug\net6.0-windows\calculator.runtimeconfig.json
+Z:\dotNett\calculator\calculator\bin\Debug\net6.0-windows\calculator.dll
+Z:\dotNett\calculator\calculator\bin\Debug\net6.0-windows\calculator.pdb
+Z:\dotNett\calculator\calculator\obj\Debug\net6.0-windows\calculator.dll
+Z:\dotNett\calculator\calculator\obj\Debug\net6.0-windows\refint\calculator.dll
+Z:\dotNett\calculator\calculator\obj\Debug\net6.0-windows\calculator.pdb
+Z:\dotNett\calculator\calculator\obj\Debug\net6.0-windows\calculator.genruntimeconfig.cache
+Z:\dotNett\calculator\calculator\obj\Debug\net6.0-windows\ref\calculator.dll
